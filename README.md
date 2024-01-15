@@ -21,6 +21,7 @@
   * [积木系统，将运营系统做到极致](https://cloud.tencent.com/developer/article/1055079)
 * 腾讯-lowcode
   * [腾讯云开发低码平台](https://console.cloud.tencent.com/lowcode)
+  * [腾讯tmagic-editor](https://tencent.github.io/tmagic-editor/docs/index.html)
 * [无远开发平台](https://wuyuan.io/)
   * [案例](https://wuyuan.io/case)
 * [奥哲](https://www.authine.com/)
